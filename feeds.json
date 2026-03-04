@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Netflix Tech Blog",
+        "url": "https://netflixtechblog.medium.com/feed"
+    },
+    {
+        "name": "Uber Engineering",
+        "url": "https://www.uber.com/en-IN/blog/engineering/rss/"
+    },
+    {
+        "name": "Meta Engineering",
+        "url": "https://engineering.fb.com/feed/"
+    },
+    {
+        "name": "Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/rss/"
+    },
+    {
+        "name": "GitHub Engineering",
+        "url": "https://github.blog/engineering/feed/"
+    },
+    {
+        "name": "Medium Engineering",
+        "url": "https://medium.engineering/feed"
+    },
+    {
+        "name": "Stripe Engineering",
+        "url": "https://stripe.com/blog/feed.rss"
+    }
+]
