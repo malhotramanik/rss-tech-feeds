@@ -1,20 +1,19 @@
 # RSS Tech Feeds → Discord
 
-A GitHub Action that fetches the latest post from 9 top tech engineering blogs and delivers each new article as a rich embed to your Discord channel — twice a day, automatically.
+A GitHub Action that fetches the latest post from 8 top tech engineering blogs and delivers each new article as a rich embed to your Discord channel — twice a day, automatically.
 
 ## Feeds Included
 
 | Blog | RSS Feed |
 |---|---|
 | Netflix Tech Blog | https://netflixtechblog.medium.com/feed |
-| Uber Engineering | https://www.uber.com/en-IN/blog/engineering/backend/rss/ |
+| Uber Engineering | https://www.uber.com/en-IN/blog/engineering/rss/ |
 | Meta Engineering | https://engineering.fb.com/feed/ |
-| LinkedIn Engineering | https://www.linkedin.com/blog/engineering/feed |
 | Cloudflare Blog | https://blog.cloudflare.com/rss/ |
-| GitHub Engineering | https://github.blog/changelog/feed/ |
-| Etsy Code as Craft | https://codeascraft.com/feed/ |
+| GitHub Engineering | https://github.blog/engineering/feed/ |
 | Medium Engineering | https://medium.engineering/feed |
 | Stripe Engineering | https://stripe.com/blog/feed.rss |
+| Slack Engineering | https://slack.engineering/feed/ |
 
 ## Setup
 

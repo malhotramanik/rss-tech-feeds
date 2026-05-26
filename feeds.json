@@ -26,5 +26,9 @@
     {
         "name": "Stripe Engineering",
         "url": "https://stripe.com/blog/feed.rss"
+    },
+    {
+        "name": "Slack Engineering",
+        "url": "https://slack.engineering/feed/"
     }
 ]
