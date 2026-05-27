@@ -1,6 +1,6 @@
 # RSS Tech Feeds → Discord
 
-A GitHub Action that fetches the latest post from 8 top tech engineering blogs and delivers each new article as a rich embed to your Discord channel — twice a day, automatically.
+A GitHub Action that fetches the latest post from 9 top tech engineering blogs and delivers each new article as a rich embed to your Discord channel — twice a day, automatically.
 
 ## Feeds Included
 
@@ -14,6 +14,7 @@ A GitHub Action that fetches the latest post from 8 top tech engineering blogs a
 | Medium Engineering | https://medium.engineering/feed |
 | Stripe Engineering | https://stripe.com/blog/feed.rss |
 | Slack Engineering | https://slack.engineering/feed/ |
+| Zepto Blog | https://blog.zeptonow.com/feed |
 
 ## Setup
 
