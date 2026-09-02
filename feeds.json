@@ -34,5 +34,9 @@
     {
         "name": "Zepto Blog",
         "url": "https://blog.zeptonow.com/feed"
+    },
+    {
+        "name": "Arpit Bhayani",
+        "url": "https://arpitbhayani.me/rss.xml"
     }
 ]
