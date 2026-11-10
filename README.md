@@ -15,6 +15,7 @@ A GitHub Action that fetches the latest post from 9 top tech engineering blogs a
 | Stripe Engineering | https://stripe.com/blog/feed.rss |
 | Slack Engineering | https://slack.engineering/feed/ |
 | Zepto Blog | https://blog.zeptonow.com/feed |
+| Android Developers Blog | https://developer.android.com/static/blog/atom.xml |
 
 ## Setup
 

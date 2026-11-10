@@ -38,5 +38,9 @@
     {
         "name": "Arpit Bhayani",
         "url": "https://arpitbhayani.me/rss.xml"
+    },
+    {
+        "name": "Android Developers Blog",
+        "url": "https://developer.android.com/static/blog/atom.xml"
     }
 ]
