@@ -1,7 +1,7 @@
 {
   "Netflix Tech Blog": "https://medium.com/p/d7d85859d808",
-  "Meta Engineering": "https://engineering.fb.com/?p=24976",
-  "Cloudflare Blog": "01M6SMASVYY5EVPJPHFF7WNPFG",
+  "Meta Engineering": "https://engineering.fb.com/?p=25010",
+  "Cloudflare Blog": "01M742VWRK37TPYYPMXERSCWKN",
   "GitHub Engineering": "https://github.blog/?p=100002",
   "Etsy Code as Craft": "https://www.etsy.com/codeascraft/how-etsy-uses-llms-to-improve-search-relevance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
   "Medium Engineering": "https://medium.com/p/b8e0a54c1d12",
@@ -10,5 +10,5 @@
   "Slack Engineering": "https://slack.engineering/?p=17832",
   "Zepto Blog": "https://medium.com/p/aac167dd07b9",
   "Arpit Bhayani": "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model",
-  "Android Developers Blog": "tag:developer.android.com,2026-11-10:/blog/posts/open-source-google-sign-in-unity"
+  "Android Developers Blog": "tag:developer.android.com,2026-11-11:/blog/posts/smileid-camerax-android-identity-verification"
 }
