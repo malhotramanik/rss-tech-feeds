@@ -1,8 +1,8 @@
 {
-  "Netflix Tech Blog": "https://medium.com/p/d7d85859d808",
+  "Netflix Tech Blog": "https://medium.com/p/e244944cdc38",
   "Meta Engineering": "https://engineering.fb.com/?p=25047",
-  "Cloudflare Blog": "01M7B8MAKWAA44XACM7ZT7P4NN",
-  "GitHub Engineering": "https://github.blog/?p=100002",
+  "Cloudflare Blog": "01M7NJA4ESQ31MDVBT2RBP1ZHX",
+  "GitHub Engineering": "https://github.blog/?p=100309",
   "Etsy Code as Craft": "https://www.etsy.com/codeascraft/how-etsy-uses-llms-to-improve-search-relevance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
   "Medium Engineering": "https://medium.com/p/b8e0a54c1d12",
   "Stripe Engineering": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
@@ -10,5 +10,5 @@
   "Slack Engineering": "https://slack.engineering/?p=17832",
   "Zepto Blog": "https://medium.com/p/aac167dd07b9",
   "Arpit Bhayani": "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model",
-  "Android Developers Blog": "tag:developer.android.com,2026-11-16:/blog/posts/beyond-the-app-google-play-buyer-reach"
+  "Android Developers Blog": "tag:developer.android.com,2026-11-17:/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization"
 }
